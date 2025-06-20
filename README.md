@@ -8,11 +8,8 @@ This project analyzes mobile device usage data to uncover user behavior patterns
 - Preprocessed for modeling and insights
 
 ## 🧠 Algorithms Used
-- Logistic Regression
 - Random Forest
-- Decision Tree
-- K-Nearest Neighbors (KNN)
-- Support Vector Machine (SVM)
+
 
 ## ⚙️ Workflow
 1. Data Cleaning & Preprocessing
